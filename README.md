@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">  # 💫 About Me:
 🔭 I’m currently working on java script<br>👯 I’m looking to collaborate on java script projects<br>🌱 And also currently pursuing my Bachelor's Degree in Electrical Engineering<br>😄 Pronouns: He/His<br>📫 How to reach me: shivasaikiran7333@gmail.com
 
 
@@ -19,3 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=shivasaikiran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @shivasaikiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivasaikiran)](https://holopin.io/@shivasaikiran)
